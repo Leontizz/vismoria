@@ -1,7 +1,0 @@
-discord.py
-youtube_dl
-requests
-nekos
-pymongo
-os
-wikipedia

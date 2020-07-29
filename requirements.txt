@@ -1,15 +1,9 @@
 discord.py
 youtube_dl
 asyncio
-functools
-itertools
-math
 random
 requests
 nekos
-datetime
-time
 pymongo
 os
-json
 wikipedia
